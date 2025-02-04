@@ -13,7 +13,14 @@
         />
     </head>
     <body>
-        <a href="index2.html"><button class="click-me">Click me if you dare.</button></a>
+        <a href="index2.html"><button class="click-me" onclick="playMusic()">Click me if you dare.</button></a>
+        <audio id="myAudio" src="pics/blue.mp3"></audio>
+        <script>
+            function playMusic() {
+                var audio = document.getElementById('myAudio');
+                audio.play();
+            }
+        </script>
         <script src="script_1.js"></script>
     </body>
 </html>
