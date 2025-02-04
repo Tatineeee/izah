@@ -1,6 +1,6 @@
 body {
     background-color: pink;
-    color: black;
+    color: black !important;
     font-family: 'Sour Gummy', serif;
     background-image: url('../pics/bg.jpg');
     background-repeat: no-repeat;
