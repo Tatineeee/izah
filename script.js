@@ -1,6 +1,6 @@
 let message = '';
 
-const targetDate = new Date('2024-02-07T14:00:00');
+const targetDate = new Date('2024-02-07T00:00:00');
 
 function updateElapsedTime() {
     const now = new Date();
