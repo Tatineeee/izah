@@ -27,7 +27,7 @@ function updateElapsedTime() {
     making more memories with you, spending more time with you, going to new places, eating new
     food, watching new shows, listening to new IVE releases, and all the other things. I want to
     keep loving you for as long as I can and that we continue to have each other, and that you
-    continue to be the sigma to my whar the. Happy 1 year to us baby, I love you!
+    continue to be the Izzy to my Monstercock. Happy 1 year to us baby, I love you!
     <br />
     <br />
         Forever yours, Tatine :3
